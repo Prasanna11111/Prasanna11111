@@ -8,7 +8,7 @@
 - 🎓📚💻 *Computer Engineer from Sanjivani College of Engineering*
 - 👩🏻‍💻 All of my projects are available at [GitHub](https://github.com/Prasanna11111)
 - 💭 Ask me about **Python, SQL, NLP, Machine Learning, Computer Vision, Generative AI, and many more.....**
-- 📧 How to reach me: [(mailto:karne654@gmail.com)]
+- 📧 How to reach me: [karne654@gmail.com)]
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/prasannakarne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
