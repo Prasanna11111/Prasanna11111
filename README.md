@@ -11,7 +11,7 @@
 - 📧 How to reach me: karne654@gmail.com
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/prasannakarne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prasannakarne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/karne654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/helloprasanna1" target="blank"><img align="center" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="30" width="40" /></a>
 
