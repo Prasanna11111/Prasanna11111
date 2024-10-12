@@ -21,6 +21,6 @@
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna11111j&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasanna11111j&show_icons=true&locale=en&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna11111&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasanna11111&show_icons=true&locale=en&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prasanna11111&&theme=tokyonight)
